@@ -5,7 +5,7 @@ INF-1400 Objektorientert programmering - Våren 2024
 Praktisk informasjon
 --------------
 
-* [Kursinfo på uit.no](http://uit.no/studiekatalog/emner/2023/var/inf-1400-1). 
+* [Kursinfo på uit.no](http://uit.no/studiekatalog/emner/2024/var/inf-1400-1). 
 * [Time/Romoversikt](http://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-1400-1)
 * [Semesterplan](semesterplan.md)
 * Discord: Link til discorden ligger i Canvas.
