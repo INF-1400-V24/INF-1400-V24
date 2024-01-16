@@ -9,4 +9,4 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 | Forelesning # | Kapittel | Tema                                             | Uke # + ukedag|
 |--------------:|---------:|-------------------------------------------------:|--------------:|
 |  1            |   1      | Introduksjon, Python and OO Introduction         |  2 tirsdag    |
-|  2            |   2,3    | [OO Concepts](https://github.com/INF-1400-V24/INF-1400-V24/blob/main/uke01/README.md) | 2 fredag |
+|  2            |   2,3    | [OO Concepts](https://github.com/INF-1400-V24/INF-1400-V24/blob/main/uke01/) | 2 fredag |
