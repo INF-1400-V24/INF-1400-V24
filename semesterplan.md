@@ -19,5 +19,5 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  9            |   -    | When to use Object-Oriented Programming | 8 tirsdag |
 |  10            |   -    | Abstract base classes, Operator overloading | 8 fredag |
 |  11            |   -    | Python Data Structures | 9 tirsdag |
-|  12            |   -    | Oppsummering og praktiske eksempler | 9 fredag |
+|  12            |   -    | Oppsummering og praktiske eksempler | 10 tirsdag |
 
