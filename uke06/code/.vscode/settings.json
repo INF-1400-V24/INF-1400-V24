@@ -1,0 +1,10 @@
+{
+        // Controls if quick suggestions should show up or not while typing
+        "editor.quickSuggestions": false,
+
+        // Enables parameter hints
+        "editor.parameterHints": false,
+    
+        // Controls if suggestions should automatically show up when typing trigger characters
+        "editor.suggestOnTriggerCharacters": false,
+}
