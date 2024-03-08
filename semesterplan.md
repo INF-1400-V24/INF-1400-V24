@@ -20,4 +20,8 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  10            |   -    | Abstract base classes, Operator overloading | 8 fredag |
 |  11            |   -    | Digital fellesundervisning | 9 tirsdag |
 |  12            |   -    | Oppsummering og praktiske eksempler | 10 tirsdag |
+|  13            |   -    | Fellesundervisning på nett | 11 tirsdag |
+|  14            |   -    | Utlevering oblig 3, testing av OOP-programmer | 12 tirsdag |
+|  15            |   -    | Context Managers, IO og functional | 12 fredag |
+|  -            |   -    | Påskeferie uke 13 | - |
 
