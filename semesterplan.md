@@ -28,9 +28,9 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  17            |   -    | Oppsummering og praktiske eksempler (tema fra forelesn. 13-16) | 15 tirsdag |
 |  18            |   -    | Digital fellesundervisning (frist oblig 3) | 16 tirsdag |
 |  -            |   -    | Ingen undervisning uke 17, frister for andreforsøk, oblig-oppsamling etc.  | - |
-|  19            |   -    | Exam prep  | 18 Tirsdag |
-|  20            |   -    | Digital fellesundervisning, exam prep  | 19 Tirsdag |
-|  21            |   -    | Exam prep  | 20 Tirsdag |
+|  19            |   -    | Exam prep  | 18 tirsdag |
+|  20            |   -    | Digital fellesundervisning, exam prep  | 19 tirsdag |
+|  21            |   -    | Exam prep  | 20 tirsdag |
 |  -            |   -    | Selvstudium, eksamensforberedelse uke 21 | - |
-|  -            |   -    | Eksamen | 22 Tirsdag |
+|  -            |   -    | Eksamen | 22 mandag |
 
